@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style type="text/css">
+    .wrapper{width:1000px;height:2000px;margin-left:auto;margin-right:auto;}
+    .header{height:150px;}
+    #nav{padding:10px;position:relative;top:0;background:black;width:1000px;}
+    a{display:inline-block;margin:0 10px;*display:inline;zoom:1;color:white;}
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header"></div>
+        <div id="nav">
+            <a href="#">my demo</a>
+            <a href="#">my demo</a>
+            <a href="#">my demo</a>
+            <a href="#">my demo</a>
+            <a href="#">my demo</a>
+        </div>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+function menuFixed(id){
+    var obj = document.getElementById(id);
+    var _getHeight = obj.offsetTop;
+    
+    window.onscroll = function(){
+        changePos(id,_getHeight);
+    }
+}
+function changePos(id,height){
+    var obj = document.getElementById(id);
+    var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+    if(scrollTop < height){
+        obj.style.position = 'relative';
+    }else{
+        obj.style.position = 'fixed';
+    }
+}
+window.onload = function(){
+    menuFixed('nav');
+}
+</script>
