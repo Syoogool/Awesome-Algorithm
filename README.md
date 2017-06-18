@@ -3,7 +3,7 @@
 - [Python](#python)
 - [Swift](#swift)
 - [Java](#java)
-- [C++](#c&plusmn;&plusmn;)
+- [C&plusmn;&plusmn;](#c&plusmn;&plusmn;)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Scala](#scala)
@@ -65,7 +65,7 @@
 + [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms) Code of my MOOC Course
 + [algorithm](https://github.com/xiaoningning/algorithm)  Algorithm, data structure and java coding.
 
-## C++
+## C&plusmn;&plusmn;
 
 + [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
 + [CLRS](https://github.com/search?p=40&q=Algorithm&type=Repositories&utf8=%E2%9C%93) Solutions to Introduction to Algorithms
