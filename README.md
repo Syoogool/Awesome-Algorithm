@@ -3,7 +3,7 @@
 - [Python](#python)
 - [Swift](#swift)
 - [Java](#java)
-- [C++](#(c++))
+- [C++](#c&plusmn;&plusmn;)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Scala](#scala)
