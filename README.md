@@ -1,19 +1,19 @@
 # Awesome-Algorithm
+
 - [C](#c)
 - [Python](#python)
 - [Swift](#swift)
 - [Java](#java)
-- [C plus plus](#c plus plus)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Scala](#scala)
-- [C%23](#c%23)
 - [Go](#go)
 - [Lua](#lua)
 - [Jupyter](#jupyter)
 - [Objective-C](#objective-c)
 - [Haskell](#haskell)
-- [&amp;](#&amp;)
+- [C++](#haskell)
+- [C#](#haskell)
 
 ## C
 + [c-algorithms](https://github.com/fragglet/c-algorithms)    A library of common data structures and algorithms written in C.
@@ -66,16 +66,6 @@
 + [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms) Code of my MOOC Course
 + [algorithm](https://github.com/xiaoningning/algorithm)  Algorithm, data structure and java coding.
 
-## C plus plus
-
-+ [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
-+ [CLRS](https://github.com/search?p=40&q=Algorithm&type=Repositories&utf8=%E2%9C%93) Solutions to Introduction to Algorithms
-
-+ [Algo_Ds_Notes](https://github.com/algobook/Algo_Ds_Notes) It is a repository that is a collection of algorithms and data structures with implementation in various languages.
-+ [Algorithms](https://github.com/search?p=11&q=Algorithm&type=Repositories&utf8=%E2%9C%93) 全面的算法代码库
-+ [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms) Code of my MOOC Course
-+ [algorithm](https://github.com/spaghetti-source/algorithm) C++ Implementation of Algorithms (aka. Spaghetti Source)
-
 
 ## Javascript
 
@@ -100,10 +90,6 @@
 + [scalacaster](https://github.com/vkostyukov/scalacaster) Purely Functional Algorithms and Data Structures in Scala
 + [scalgos](https://github.com/pathikrit/scalgos) algorithms in scala
 
-## C%23
-
-+ [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
-+ [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) A C# plug-and-play class-library project of standard Data Structures and Algorithms.
 
 ## Go
 
@@ -127,4 +113,17 @@
 
 + [aima-haskell](https://github.com/chris-taylor/aima-haskell) Algorithms from AIMA in Haskell
 
-## &amp;
+## C++
+
++ [algorithms](https://github.com/xtaci/algorithms) Algorithms & Data structures in C++.
++ [CLRS](https://github.com/search?p=40&q=Algorithm&type=Repositories&utf8=%E2%9C%93) Solutions to Introduction to Algorithms
+
++ [Algo_Ds_Notes](https://github.com/algobook/Algo_Ds_Notes) It is a repository that is a collection of algorithms and data structures with implementation in various languages.
++ [Algorithms](https://github.com/search?p=11&q=Algorithm&type=Repositories&utf8=%E2%9C%93) 全面的算法代码库
++ [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms) Code of my MOOC Course
++ [algorithm](https://github.com/spaghetti-source/algorithm) C++ Implementation of Algorithms (aka. Spaghetti Source)
+
+## C#
+
++ [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
++ [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) A C# plug-and-play class-library project of standard Data Structures and Algorithms.
