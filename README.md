@@ -7,7 +7,7 @@
 - [Javascript](#javascript)
 - [Ruby](#ruby)
 - [Scala](#scala)
-- [C#](#\c#)
+- [C%23](#c%23)
 - [Go](#go)
 - [Lua](#lua)
 - [Jupyter](#jupyter)
@@ -99,7 +99,7 @@
 + [scalacaster](https://github.com/vkostyukov/scalacaster) Purely Functional Algorithms and Data Structures in Scala
 + [scalgos](https://github.com/pathikrit/scalgos) algorithms in scala
 
-## C#
+## C%23
 
 + [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 + [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) A C# plug-and-play class-library project of standard Data Structures and Algorithms.
