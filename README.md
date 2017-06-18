@@ -2,7 +2,7 @@
 - [C](#c)
 - [Python](#python)
 - [Swift](#swift)
-- [Java](#sava)
+- [Java](#java)
 - [C++](#c++)
 - [Javascript](#javascript)
 - [Ruby](#ruby)
@@ -11,7 +11,7 @@
 - [Go](#go)
 - [Lua](#lua)
 - [Jupyter](#jupyter)
-- [Objective-C](#objective-C)
+- [Objective-C](#objective-c)
 - [Haskell](#haskell)
 
 ## C
